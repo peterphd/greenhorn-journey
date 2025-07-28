@@ -1,0 +1,11 @@
+# Compiled binaries
+test_*
+a.out
+*.out
+
+# Object files
+*.o
+
+# Editor temporary files
+*~
+.*.swp
