@@ -9,3 +9,17 @@ a.out
 # Editor temporary files
 *~
 .*.swp
+
+# C debugging executables
+0-main
+0-main-fixed
+1-main
+2-main
+3-main
+4-segfault
+5-memory
+
+# Debug files
+core
+vgcore.*
+*.dSYM/
